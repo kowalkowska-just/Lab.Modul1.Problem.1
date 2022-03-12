@@ -1,0 +1,8 @@
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Justyna Kowalkowska\Desktop\Programowanie Obiektowe - lab\Modul 1 problem 1 Justyna Kowalkowska\Bank\Bank\obj\Debug\Bank.pdb
